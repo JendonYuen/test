@@ -1,0 +1,17 @@
+{
+  "apiID": "github17__c__function_aadfelebm5eey",
+  "apiName": "func1",
+  "label": {
+    "zh_CN": "func1",
+    "en_US": null
+  },
+  "description": {
+    "zh_CN": "自定义函数3",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}
