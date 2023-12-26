@@ -2,7 +2,6 @@ node_modules
 
 mini-program
 
-.vscode
 .DS_Store
 .yarn
 .kldx
