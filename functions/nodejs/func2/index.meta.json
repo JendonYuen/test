@@ -1,9 +1,9 @@
 {
-  "apiID": "github3__c__function_aadfrif5bf6by",
-  "apiName": "func1",
+  "apiID": "github3__c__function_aadfrif5bhqcs",
+  "apiName": "func2",
   "label": {
-    "zh_CN": "func 1",
-    "en_US": "func 1"
+    "zh_CN": "func 2",
+    "en_US": "func 2"
   },
   "description": {
     "zh_CN": "自定义函数",
